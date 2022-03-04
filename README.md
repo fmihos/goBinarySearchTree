@@ -1,2 +1,2 @@
 # goBinarySearchTree
-Implementation of Binary Search Tree data stricture in Go
+Implementation of Binary Search Tree data structure in Go
